@@ -4,7 +4,7 @@
   </a>
   <h3 align="center">Backend Admin - Pesona Malang</h3>
   <p align="center">
-    <i>Aplikasi ini dapat diakses <a href="https://backendpesonamalang.netlify.app/">di sini</a></i>
+    <i>Aplikasi ini dapat diakses <a href="https://admin-pesona-malang.netlify.app/">di sini</a></i>
   </p>
 </p>
 
